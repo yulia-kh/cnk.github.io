@@ -2,7 +2,7 @@ backend:
   name: github
   repo: cnk/cnk.github.io
   open_authoring: true
-publish-mode: editorial_workflow
+publish_mode: editorial_workflow
 media_folder: "assets/images/projects" # Media files will be stored in the repo in this directory
 collections:
   - name: "projects" # Used in routes, e.g., /admin/collections/blog
