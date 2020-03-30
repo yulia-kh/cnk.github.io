@@ -24,6 +24,8 @@
 .logo-garden {
   li {
     margin-bottom: 12px;
+    display:  flex;
+    justify-content: center; 
 
     @media #{$bp-mobile-up} {
       margin-right: 24px;
@@ -45,9 +47,11 @@
     img {
       display: block;
       height: 50px;
+      margin: 10px 80px;
 
       @media #{$bp-mobile-up} {
         height: 70px;
+        margin: 10px;
       }
     }
   }
