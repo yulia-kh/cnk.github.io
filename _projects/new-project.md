@@ -19,6 +19,10 @@ links:
     url: 'https://github.com/cnk/website'
   - name: Slack
     url: 'https://remoteacademia.slack.com'
+looking:
+  - Foo
+  - Bar
+  - Baz
 location: Remote
 status: Rebooting
 ---
