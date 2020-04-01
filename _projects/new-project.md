@@ -14,6 +14,11 @@ leadership:
     links:
       - github: 'https://github.com/jdoe'
     picture: 'https://avatars.githubusercontent.com/ExperimentsInHonesty'
+links:
+  - name: GitHub
+    url: 'https://github.com/cnk/website'
+  - name: Slack
+    url: 'https://remoteacademia.slack.com'
 location: Remote
 status: Rebooting
 ---
