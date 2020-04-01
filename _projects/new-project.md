@@ -14,6 +14,10 @@ leadership:
     links:
       - github: 'https://github.com/jdoe'
     picture: 'https://avatars.githubusercontent.com/ExperimentsInHonesty'
+  - name: Patel Gho
+    role: Lead Designer
+    picture: 'https://avatars.githubusercontent.com/ExperimentsInHonesty'
+    links: []
 links:
   - name: GitHub
     url: 'https://github.com/cnk/website'
@@ -24,5 +28,6 @@ looking:
   - Bar
   - Baz
 location: Remote
+partner: Partners in Crime
 status: Rebooting
 ---
