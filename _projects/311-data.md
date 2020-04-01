@@ -53,5 +53,5 @@ looking:
 location: Downtown LA
 partner: EmpowerLA
 status: Active
-hide: False
+hide: false
 ---
