@@ -7,7 +7,7 @@ description: >-
   easy for all people (community members, visitors, etc.) to use to see the
   landscape of parking around themselves. We want to help you avoid endlessly
   searching for parking in all the wrong places and reduce your risk of getting
-  tickets. Test, test, test
+  tickets. Test, test, test and more test
 image: /assets/images/projects/curbmap.jpg
 alt: '''parking sign'''
 links:
