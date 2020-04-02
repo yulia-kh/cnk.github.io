@@ -1,9 +1,10 @@
 ---
+hide: false
 identification: '190321758'
-title: 311 Data
+title: 311 Data Edited
 description: short
 image: /assets/images/projects/311.jpg
-alt: "image of building with windows that look like they spell out 311"
+alt: image of building with windows that look like they spell out 311
 image-hero: /assets/images/projects/311data-hero.png
 leadership:
   - name: John Ritchey
@@ -11,31 +12,31 @@ leadership:
     links:
       - slack: 'https://app.slack.com/team/UNFV029Q8'
       - github: 'https://github.com/johnr54321'
-    picture: https://avatars.githubusercontent.com/johnr54321
+    picture: 'https://avatars.githubusercontent.com/johnr54321'
   - name: Joyce Lee
     role: UI/UX Lead
     links:
       - slack: 'https://hackforla.slack.com/team/UQZ71S04A'
       - github: 'https://github.com/itsjoycelee'
-    picture: https://avatars.githubusercontent.com/itsjoycelee
+    picture: 'https://avatars.githubusercontent.com/itsjoycelee'
   - name: Joshua Marx
     role: Frontend Lead
     links:
       - slack: 'https://app.slack.com/team/UG4G54YUD'
       - github: 'https://github.com/brodly'
-    picture: https://avatars.githubusercontent.com/brodly
+    picture: 'https://avatars.githubusercontent.com/brodly'
   - name: Ryan Swan
     role: Data Science Lead
     links:
       - slack: 'https://app.slack.com/team/UPB2FHJCX'
       - github: 'https://github.com/ryanmswan'
-    picture: https://avatars.githubusercontent.com/ryanmswan
+    picture: 'https://avatars.githubusercontent.com/ryanmswan'
   - name: Russell Tan
     role: Backend Lead
     links:
       - slack: 'https://app.slack.com/team/UKBN4RB7G'
       - github: 'https://github.com/sellnat77'
-    picture: https://avatars.githubusercontent.com/sellnat77
+    picture: 'https://avatars.githubusercontent.com/sellnat77'
 links:
   - name: GitHub
     url: 'https://github.com/hackforla/311-data'
@@ -53,5 +54,4 @@ looking:
 location: Downtown LA
 partner: EmpowerLA
 status: Active
-hide: false
 ---
